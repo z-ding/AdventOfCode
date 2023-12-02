@@ -13,24 +13,42 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="Source Files\day1">
+      <UniqueIdentifier>{9730f7e6-f4eb-4037-bd0f-0e574f9374cb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\day2">
+      <UniqueIdentifier>{f5214d2e-1c2c-4788-b34d-61b680dce9bf}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Source.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="day1part1.cpp">
-      <Filter>Source Files</Filter>
+      <Filter>Source Files\day1</Filter>
     </ClCompile>
     <ClCompile Include="day1part2.cpp">
-      <Filter>Source Files</Filter>
+      <Filter>Source Files\day1</Filter>
+    </ClCompile>
+    <ClCompile Include="day2part1.cpp">
+      <Filter>Source Files\day2</Filter>
+    </ClCompile>
+    <ClCompile Include="day2part2.cpp">
+      <Filter>Source Files\day2</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="day1part1.txt">
-      <Filter>Source Files</Filter>
+      <Filter>Source Files\day1</Filter>
     </Text>
     <Text Include="day1part2.txt">
-      <Filter>Source Files</Filter>
+      <Filter>Source Files\day1</Filter>
+    </Text>
+    <Text Include="day2part1.txt">
+      <Filter>Source Files\day2</Filter>
+    </Text>
+    <Text Include="day2part2.txt">
+      <Filter>Source Files\day2</Filter>
     </Text>
   </ItemGroup>
 </Project>
