@@ -87,7 +87,7 @@
       <Filter>Source Files\day4</Filter>
     </Text>
     <Text Include="day5part1.txt">
-      <Filter>Source Files</Filter>
+      <Filter>Source Files\day5</Filter>
     </Text>
   </ItemGroup>
 </Project>
