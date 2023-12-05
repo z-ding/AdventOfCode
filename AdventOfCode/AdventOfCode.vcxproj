@@ -136,6 +136,7 @@
     <ClCompile Include="day4part1.cpp" />
     <ClCompile Include="day4part2.cpp" />
     <ClCompile Include="day5part1.cpp" />
+    <ClCompile Include="day5part2.cpp" />
     <ClCompile Include="Source.cpp" />
   </ItemGroup>
   <ItemGroup>

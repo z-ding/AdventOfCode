@@ -60,6 +60,9 @@
     <ClCompile Include="day5part1.cpp">
       <Filter>Source Files\day5</Filter>
     </ClCompile>
+    <ClCompile Include="day5part2.cpp">
+      <Filter>Source Files\day5</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="day1part1.txt">
