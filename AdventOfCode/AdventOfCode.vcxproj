@@ -137,6 +137,8 @@
     <ClCompile Include="day4part2.cpp" />
     <ClCompile Include="day5part1.cpp" />
     <ClCompile Include="day5part2.cpp" />
+    <ClCompile Include="day6part1.cpp" />
+    <ClCompile Include="day6part2.cpp" />
     <ClCompile Include="Source.cpp" />
   </ItemGroup>
   <ItemGroup>
@@ -148,6 +150,7 @@
     <Text Include="day3part2.txt" />
     <Text Include="day4part1.txt" />
     <Text Include="day5part1.txt" />
+    <Text Include="day6part1.txt" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
